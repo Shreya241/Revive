@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Register = () => {
+const Deaf = () => {
     return (
         <div>
-            register
+            deaf
         </div>
     )
 }
-export default Register;
+export default Deaf;
