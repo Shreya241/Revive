@@ -20,7 +20,7 @@ const App = () => {
     <Router>
       <Switch>
         <Route exact path="/">
-          <Login />
+          <Home />
         </Route>
         <Route path="/blind">
           <Blind />
